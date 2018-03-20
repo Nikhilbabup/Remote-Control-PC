@@ -300,7 +300,7 @@ public class MainActivity extends AppCompatActivity
                     //Toast.makeText(this, "Click again to download", Toast.LENGTH_SHORT).show();
 
                 } else {
-                    Toast.makeText(this, "File Transfer will not work", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(this, "File Transfer wil not work", Toast.LENGTH_SHORT).show();
                 }
                 return;
             }
